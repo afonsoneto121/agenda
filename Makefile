@@ -11,4 +11,4 @@ lista_enc.o: lista_enc.c lista_enc.h
 	gcc -c lista_enc.c
 
 clean:
-	rm *.o main
+	rm *.o agenda
